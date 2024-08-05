@@ -1,0 +1,6 @@
+Order pizza
+buy something
+buy milk
+make pizza
+clean the code
+made a default arg
