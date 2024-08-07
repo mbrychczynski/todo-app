@@ -1,10 +1,7 @@
-Order pizza
 Buy MC
 buy bread
 make pizza
 clean the code
 made a default arg
-New line
-Read book
 Play a game
 Play a chess
