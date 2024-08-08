@@ -3,9 +3,6 @@ buy bread
 make pizza
 clean the code
 made a default arg
-Play a game
-Play a chess
-CleanEatSleep
-SleepEat
-Catch
-
+Buy milk
+Buy roll
+Buy Pringles
