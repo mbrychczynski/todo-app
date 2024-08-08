@@ -5,3 +5,7 @@ clean the code
 made a default arg
 Play a game
 Play a chess
+CleanEatSleep
+SleepEat
+Catch
+
